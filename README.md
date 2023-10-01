@@ -1,7 +1,7 @@
 # Diffusion-Models
 Diffusion models are a type of AI model that generate data by progressively improving their guesses over time.
 
-![Diffusion Image]()
+![Diffusion Image](https://github.com/Zaheer-10/Diffusion-Models/blob/main/Architechture.png)
 
 Diffusion models are a class of generative models that are particularly useful for generating data samples. 
 They are based on the concept of iteratively applying a diffusion process to noise until the desired data distribution is obtained. 
